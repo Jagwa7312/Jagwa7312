@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![https://solved.ac/profile/black_203](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 <!--
 **Jagwa7312/Jagwa7312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
